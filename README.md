@@ -1,7 +1,11 @@
 ![Скриншот](https://images.icon-icons.com/2248/PNG/512/message_arrow_right_icon_136413.png)
 # Quickcoords
 QuickCoords adds a simple and fast way to save and jump to coordinates on PixelPlanet.
-
+Installation:
+* Install Tampermonkey
+* [![Install latest version of script](https://img.shields.io/github/v/release/Fl1pse/quickcoords?color=brightgreen&logo=github&label=Install%20script)](https://github.com/Fl1pse/quickcoords/releases/latest)
+* Open PPF and enable script in tampermonkey, reload page and...
+* Done!
 # Main features:
 1. Save your current coordinates with a custom name
 
