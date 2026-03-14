@@ -1,3 +1,4 @@
+https://images.icon-icons.com/2248/PNG/512/message_arrow_right_icon_136413.png
 # Quickcoords
 QuickCoords adds a simple and fast way to save and jump to coordinates on PixelPlanet.
 
