@@ -16,4 +16,4 @@ QuickCoords adds a simple and fast way to save and jump to coordinates on PixelP
 6. Compact collapse mode (turns into a small emoji button)
 
 7. Remembers size, position, and state
-![Демо](showcase.gif)
+<img src="showcase.gif" alt="Анимация" width="700">
